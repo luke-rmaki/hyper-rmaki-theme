@@ -37,6 +37,13 @@ exports.decorateConfig = (config) => {
     .header_appTitle {
       color: ${rmakiAccent};
     }
+    .header_windowHeader {
+      background: ${rmakiBlack};
+    }
+    .term_active {
+      background: ${rmakiBlack};
+
+    }
   `,
     colors: {
       black,
