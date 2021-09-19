@@ -10,4 +10,4 @@ Rmaki Theme for Hyper
       "hyper-rmaki-theme"
     ],
 
-![Screenshot](./Hyper%20Theme.png)
+![Screenshot](./screenshot.png)
