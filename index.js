@@ -42,7 +42,6 @@ exports.decorateConfig = (config) => {
     }
     .term_active {
       background: ${rmakiBlack};
-
     }
   `,
     colors: {
