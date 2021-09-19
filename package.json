@@ -1,7 +1,8 @@
 {
   "name": "hyper-rmaki-theme",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "index.js",
+  "repository": "https://github.com/luke-rmaki/hyper-rmaki-theme",
   "author": "Luke Ruokaismaki",
   "license": "MIT",
   "keywords": [
